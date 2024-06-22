@@ -1,0 +1,1 @@
+To connect to the BeagleBone Black use ssh debian@0.0.0.0
